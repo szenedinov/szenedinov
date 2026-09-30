@@ -21,4 +21,4 @@
 
 ## 📫 Контакты
 
-- GitHub: @alexdev
+- GitHub: @szenedinov
