@@ -276,11 +276,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=szenedinov&bg_color=050505&color=FFFFFF&line=FF0033&point=FF0033&area=true&hide_border=true&custom_title=🔥%20SZENEDINOV%20CODING%20ACTIVITY" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=szenedinov&show_icons=true&hide_border=true&theme=dark&bg_color=050505&title_color=FF0033&icon_color=FF0033&text_color=FFFFFF&custom_title=🔥%20SZENEDINOV%20ACTIVITY" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=szenedinov&theme=dark&hide_border=true&background=050505&ring=FF0033&fire=FF0033&currStreakLabel=FF0033&sideLabels=FFFFFF&dates=777777" width="49%"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1200&pause=300&color=FF0033&center=true&vCenter=true&width=650&lines=%5B+SCANNING+COMMITS...+%5D;%5B+ANALYZING+ACTIVITY...+%5D;%5B+KEEP+PUSHING...+%F0%9F%94%A5+%5D" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szenedinov&layout=compact&hide_border=true&theme=dark&bg_color=050505&title_color=FF0033&text_color=FFFFFF&custom_title=💻%20TECH%20STACK" width="45%"/>
 
 </div>
 
@@ -290,11 +292,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/szenedinov/szenedinov/output/github-contribution-grid-snake-dark.svg" width="900"/>
+<img src="https://raw.githubusercontent.com/szenedinov/szenedinov/output/github-contribution-grid-snake.svg" width="900"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1300&pause=300&color=FF0033&center=true&vCenter=true&width=650&lines=🐍+SNAKE+IS+HUNTING+COMMITS...;🔥+MORE+CONTRIBUTIONS...;⚡+KEEP+PUSHING...;🥊+NEVER+STOP+CODING!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1300&pause=300&color=FF0033&center=true&vCenter=true&width=650&lines=%5B+SNAKE+IS+HUNTING+COMMITS...+%5D;%5B+MORE+CONTRIBUTIONS...+%F0%9F%94%A5+%5D;%5B+KEEP+PUSHING...+%E2%9A%A1+%5D;%5B+NEVER+STOP+CODING...+%F0%9F%A5%8A+%5D" />
 
 </div>
 
@@ -304,7 +306,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=szenedinov&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=szenedinov&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
 
 </div>
 
