@@ -1,88 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:3B0000,60:8B0000,100:FF0033&height=250&section=header&text=SZENEDINOV&fontSize=65&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=🥊%20FRONTEND%20DEVELOPER%20%7C%20CODE%20FIGHTER&descAlignY=58&descSize=20" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         HERO                                    -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:250000,55:650000,80:AA0022,100:FF0033&height=260&section=header&text=SZENEDINOV&fontSize=68&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=🥊%20FRONTEND%20DEVELOPER%20%7C%20CODE%20FIGHTER&descAlignY=58&descSize=21" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=1700&pause=600&color=FF0033&center=true&vCenter=true&width=850&height=60&lines=%3E%3E%3E+WELCOME+TO+MY+ARENA+%3C%3C%3C;FRONTEND+DEVELOPER+%F0%9F%92%BB;CODE+FIGHTER+%F0%9F%A5%8A;BUILD.+BREAK.+FIX.+REPEAT.;TRAIN+HARD.+CODE+HARDER.;NEVER+STOP+FIGHTING+%E2%9A%A1" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=700&color=FF0033&center=true&vCenter=true&width=800&height=60&lines=%3E%3E%3E+WELCOME+TO+MY+ARENA+%3C%3C%3C;FRONTEND+DEVELOPER+%F0%9F%92%BB;CODE+FIGHTER+%F0%9F%A5%8A;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME;TRAIN+HARD.+CODE+HARDER.;NEVER+STOP+FIGHTING+%E2%9A%A1" />
-
-<br>
-
-<img src="https://img.shields.io/badge/🥊_CODE_FIGHTER-FF0033?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🔥_BUILDING-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻_CODING-000000?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/⚡_ACTIVE-FF0033?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🥊_CODE_FIGHTER-FF0033?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/🔥_FIGHT_MODE-ACTIVE?style=for-the-badge&labelColor=050505&color=8B0000"/>
+<img src="https://img.shields.io/badge/💻_STATUS-CODING?style=for-the-badge&labelColor=050505&color=FF0033"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430"/>
 
-<br>
+<br><br>
 
-> ### 🥊 **TRAIN HARD. CODE HARDER.**
+> ### **"Train hard. Code harder."**
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       SYSTEM BOOT                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+INITIALIZING...+%5D;%5B+LOADING+FIGHTER...+%5D;%5B+LOADING+CODE...+%5D;%5B+SYSTEM+ONLINE+%E2%9C%85+%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1400&pause=400&color=FF0033&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+BOOTING...+%5D;%5B+LOADING+FIGHTER...+%5D;%5B+LOADING+SKILLS...+%5D;%5B+LOADING+CODE...+%5D;%5B+ARENA+ONLINE+%E2%9C%85+%5D" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
 
 </div>
 
 ---
 
-<h2 align="center">🥊 ABOUT THE FIGHTER</h2>
+# 🥊 ABOUT THE FIGHTER
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=%3E+ENTERING+THE+ARENA...;%3E+PREPARING+THE+NEXT+PROJECT...;%3E+WRITING+CLEAN+CODE...;%3E+FIGHTING+BUGS..." />
-
-<br><br>
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-<h3 align="center">👊 PROFILE</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=600&color=FF0033&center=true&vCenter=true&width=600&lines=%3E+FIGHTER+PROFILE;%3E+ENTERING+THE+ARENA...;%3E+SYSTEM+ONLINE+%E2%9C%85" />
+
+<br>
 
 ```text
-╔══════════════════════════════╗
-║       FIGHTER PROFILE        ║
-╠══════════════════════════════╣
-║                              ║
-║  NAME     : SZENEDINOV       ║
-║  ROLE     : FRONTEND DEV     ║
-║  STYLE    : CLEAN CODE       ║
-║  ARENA    : WEB DEVELOPMENT  ║
-║  STATUS   : 🟢 ACTIVE        ║
-║                              ║
-╚══════════════════════════════╝
+╔══════════════════════════════════╗
+║          FIGHTER PROFILE         ║
+╠══════════════════════════════════╣
+║                                  ║
+║  NAME       : SZENEDINOV         ║
+║  ROLE       : FRONTEND DEV       ║
+║  CLASS      : CODE FIGHTER       ║
+║  STYLE      : CLEAN CODE         ║
+║  ARENA      : WEB DEVELOPMENT    ║
+║  STATUS     : 🟢 ONLINE          ║
+║                                  ║
+║  MISSION    : BUILD THE FUTURE   ║
+║                                  ║
+╚══════════════════════════════════╝
 ```
+
+<br>
+
+<img src="https://img.shields.io/badge/⚡_LEVEL-∞-FF0033?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/🥊_ROUND-INFINITE-8B0000?style=for-the-badge&labelColor=050505"/>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" align="center">
 
-<h3 align="center">⚡ CURRENT MISSION</h3>
+<!-- Animated fighter / coding GIF -->
 
-```text
-┌──────────────────────────────┐
-│                              │
-│  💻 WRITE CODE               │
-│       ↓                      │
-│  🧠 SOLVE PROBLEMS           │
-│       ↓                      │
-│  🥊 FIGHT BUGS               │
-│       ↓                      │
-│  🚀 SHIP PROJECTS            │
-│       ↓                      │
-│  🔥 REPEAT                   │
-│                              │
-└──────────────────────────────┘
-```
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="330"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=1200&pause=300&color=FF0033&center=true&vCenter=true&width=400&lines=%5B%F0%9F%A5%8A%5D+READY;%5B%E2%9A%A1%5D+FOCUSED;%5B%F0%9F%94%A5%5D+MOTIVATED;%5B%F0%9F%92%BB%5D+CODING" />
 
 </td>
 
@@ -93,39 +106,155 @@
 
 ---
 
-<h2 align="center">💻 TECH ARSENAL</h2>
+# ⚡ POWER LEVEL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=700&color=FF0033&center=true&vCenter=true&width=650&lines=⚡+FIGHTER+POWER+LEVEL;ANALYZING+COMBAT+STATS...;POWER+SYSTEM+ONLINE+%E2%9C%85" />
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,linux,npm,vercel&theme=dark" />
+<table align="center">
 
-<br><br>
+<tr>
+<td align="right"><b>FRONTEND</b></td>
+<td>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=600&color=FF0033&center=true&vCenter=true&width=600&lines=HTML+%E2%9C%93+CSS+%E2%9C%93+JAVASCRIPT+%E2%9C%93;REACT+%E2%9C%93+NEXT.JS+%E2%9C%93+TYPESCRIPT+%E2%9C%93;NODE.JS+%E2%9C%93+GIT+%E2%9C%93+GITHUB+%E2%9C%93" />
+████████████████████ 100%
+
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>JAVASCRIPT</b></td>
+<td>
+
+██████████████████░░ 90%
+
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>REACT</b></td>
+<td>
+
+████████████████░░░░ 85%
+
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>TYPESCRIPT</b></td>
+<td>
+
+███████████████░░░░░ 80%
+
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>UI / UX</b></td>
+<td>
+
+████████████████░░░░ 85%
+
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>DEBUGGING</b></td>
+<td>
+
+███████████████████░ 95%
+
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>CREATIVITY</b></td>
+<td>
+
+████████████████████ ∞%
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=1000&pause=200&color=FF0033&center=true&vCenter=true&width=650&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+POWER+CHARGING...;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+POWER+MAXIMUM+%F0%9F%94%A5" />
 
 </div>
 
 ---
 
-<h2 align="center">🥊 FIGHT MODE</h2>
+# 🛠️ TECH ARSENAL
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450"/>
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" />
+
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1200&pause=300&color=FF0033&center=true&vCenter=true&width=700&lines=%5B%F0%9F%A5%8A%5D+ROUND+01+%E2%80%94+LEARN;%5B%F0%9F%A5%8A%5D+ROUND+02+%E2%80%94+BUILD;%5B%F0%9F%A5%8A%5D+ROUND+03+%E2%80%94+DEBUG;%5B%F0%9F%A5%8A%5D+ROUND+04+%E2%80%94+SHIP;%5B%F0%9F%A5%8A%5D+ROUND+05+%E2%80%94+REPEAT" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1700&pause=500&color=FF0033&center=true&vCenter=true&width=700&lines=HTML+%E2%9C%93+CSS+%E2%9C%93+JAVASCRIPT+%E2%9C%93;TYPESCRIPT+%E2%9C%93+REACT+%E2%9C%93+NEXT.JS+%E2%9C%93;NODE.JS+%E2%9C%93+GIT+%E2%9C%93+GITHUB+%E2%9C%93" />
 
 </div>
 
 ---
 
-<h2 align="center">📊 LIVE STATS</h2>
+# 🥊 FIGHT MODE
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=1100&pause=250&color=FF0033&center=true&vCenter=true&width=800&lines=%5B+ROUND+01+%5D+LEARN+%F0%9F%A7%A0;%5B+ROUND+02+%5D+BUILD+%F0%9F%92%BB;%5B+ROUND+03+%5D+DEBUG+%F0%9F%90%9B;%5B+ROUND+04+%5D+SHIP+%F0%9F%9A%80;%5B+ROUND+05+%5D+REPEAT+%F0%9F%94%A5;%5B+ROUND+06+%5D+NEVER+QUIT+%F0%9F%A5%8A" />
+
+</div>
+
+---
+
+# 🧠 CURRENT MISSION
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│             🥊 CURRENT MISSION                     │
+│                                                     │
+│       ┌───────────────┐                             │
+│       │  💡 IDEA      │                             │
+│       └───────┬───────┘                             │
+│               ↓                                     │
+│       ┌───────────────┐                             │
+│       │  💻 CODE      │                             │
+│       └───────┬───────┘                             │
+│               ↓                                     │
+│       ┌───────────────┐                             │
+│       │  🐛 DEBUG     │                             │
+│       └───────┬───────┘                             │
+│               ↓                                     │
+│       ┌───────────────┐                             │
+│       │  🚀 DEPLOY    │                             │
+│       └───────┬───────┘                             │
+│               ↓                                     │
+│       ┌───────────────┐                             │
+│       │  🔥 REPEAT    │                             │
+│       └───────────────┘                             │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 📊 GITHUB COMBAT STATS
 
 <div align="center">
 
@@ -133,7 +262,7 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szenedinov&layout=donut&hide_border=true&theme=dark&bg_color=050505&title_color=FF0033&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szenedinov&layout=compact&hide_border=true&theme=dark&bg_color=050505&title_color=FF0033&text_color=FFFFFF&custom_title=💻%20TECH%20ARSENAL" />
 
 <br><br>
 
@@ -143,21 +272,35 @@
 
 ---
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+# 📈 CODING ACTIVITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/szenedinov/szenedinov/output/github-contribution-grid-snake-dark.svg" width="900"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=szenedinov&bg_color=050505&color=FFFFFF&line=FF0033&point=FF0033&area=true&hide_border=true&custom_title=🔥%20SZENEDINOV%20CODING%20ACTIVITY" width="95%"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=500&color=FF0033&center=true&vCenter=true&width=500&lines=EATING+CONTRIBUTIONS...+%F0%9F%90%8D;KEEP+PUSHING...+%F0%9F%94%A5;MORE+COMMITS.+MORE+POWER." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1200&pause=300&color=FF0033&center=true&vCenter=true&width=650&lines=%5B+SCANNING+COMMITS...+%5D;%5B+ANALYZING+ACTIVITY...+%5D;%5B+KEEP+PUSHING...+%F0%9F%94%A5+%5D" />
 
 </div>
 
 ---
 
-<h2 align="center">🏆 ACHIEVEMENTS</h2>
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/szenedinov/szenedinov/output/github-contribution-grid-snake-dark.svg" width="900"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1300&pause=300&color=FF0033&center=true&vCenter=true&width=650&lines=🐍+SNAKE+IS+HUNTING+COMMITS...;🔥+MORE+CONTRIBUTIONS...;⚡+KEEP+PUSHING...;🥊+NEVER+STOP+CODING!" />
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
@@ -167,69 +310,63 @@
 
 ---
 
-<h2 align="center">⚡ CODING TERMINAL</h2>
+# ⚡ TERMINAL
 
 <div align="center">
 
 ```text
-$ whoami
-
-> SZENEDINOV
-
-$ role
-
-> FRONTEND_DEVELOPER
-
-$ mission
-
-> BUILD_GREAT_THINGS
-
-$ status
-
-> ████████████████████ 100%
-
-$ bugs
-
-> ██████████░░░░░░░░░░ 50%
-
-$ motivation
-
-> ████████████████████ 999%
-
-$ coffee
-
-> ████████████████████ ☕
+┌──────────────────────────────────────────────┐
+│               SZENEDINOV OS                  │
+├──────────────────────────────────────────────┤
+│                                              │
+│  $ whoami                                    │
+│  > SZENEDINOV                                │
+│                                              │
+│  $ role                                      │
+│  > FRONTEND_DEVELOPER                        │
+│                                              │
+│  $ class                                     │
+│  > CODE_FIGHTER                              │
+│                                              │
+│  $ status                                    │
+│  > ████████████████████  ONLINE              │
+│                                              │
+│  $ motivation                                │
+│  > ████████████████████  999%                │
+│                                              │
+│  $ bugs                                      │
+│  > ██████████░░░░░░░░░░  DETECTED            │
+│                                              │
+│  $ coffee                                    │
+│  > ████████████████████  ☕                  │
+│                                              │
+│  $ quitting                                  │
+│  > COMMAND NOT FOUND                         │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-<h2 align="center">🔥 ACTIVITY</h2>
+# 🚀 SYSTEM STATUS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=szenedinov&bg_color=050505&color=FFFFFF&line=FF0033&point=FFFFFF&area=true&hide_border=true&custom_title=SZENEDINOV%20CODING%20ACTIVITY" width="95%"/>
-
-</div>
-
----
-
-<h2 align="center">🚀 PROJECT STATUS</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=500&color=FF0033&center=true&vCenter=true&width=650&lines=%F0%9F%9F%A2+SYSTEMS+ONLINE;%F0%9F%9F%A2+FRONTEND+ONLINE;%F0%9F%9F%A2+CREATIVITY+ONLINE;%F0%9F%9F%A2+COFFEE+ONLINE;%F0%9F%94%B4+QUITTING+OFFLINE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1000&pause=250&color=FF0033&center=true&vCenter=true&width=750&lines=%F0%9F%9F%A2+FRONTEND+SYSTEM+ONLINE;%F0%9F%9F%A2+CODE+ENGINE+ONLINE;%F0%9F%9F%A2+CREATIVITY+ONLINE;%F0%9F%9F%A2+COFFEE+ENGINE+ONLINE;%F0%9F%94%B4+QUITTING+SYSTEM+OFFLINE;%E2%9A%A1+ALL+SYSTEMS+GO!" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
+<img src="https://img.shields.io/badge/🟢_SYSTEM-ONLINE-00FF66?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/🔥_ENERGY-100%25-FF0033?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/🥊_FIGHT-ON-8B0000?style=for-the-badge&labelColor=050505"/>
 
 </div>
 
 ---
 
-<h2 align="center">🌐 CONNECT</h2>
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
@@ -243,7 +380,7 @@ $ coffee
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=szenedinov&style=for-the-badge&color=FF0033&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=szenedinov&style=for-the-badge&color=FF0033&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -251,10 +388,10 @@ $ coffee
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=800&color=FF0033&center=true&vCenter=true&width=700&lines=THANKS+FOR+VISITING+%F0%9F%A5%8A;SEE+YOU+IN+THE+NEXT+ROUND+%F0%9F%94%A5;TRAIN+HARD.+CODE+HARDER.;%3E%3E%3E+NEVER+STOP+CODING+%3C%3C%3C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=1800&pause=700&color=FF0033&center=true&vCenter=true&width=800&lines=THANKS+FOR+VISITING+%F0%9F%A5%8A;SEE+YOU+IN+THE+NEXT+ROUND+%F0%9F%94%A5;TRAIN+HARD.+CODE+HARDER.;%3E%3E%3E+NEVER+STOP+CODING+%3C%3C%3C" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,40:8B0000,70:3B0000,100:000000&height=150&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,30:AA0022,60:650000,100:000000&height=170&section=footer&animation=twinkling"/>
 
 </div>
