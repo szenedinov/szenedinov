@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:FF0033&height=220&section=header&text=SZENEDINOV&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FRONTEND%20DEVELOPER%20%7C%20CODE%20FIGHTER&descAlignY=58&descSize=18"/>
@@ -244,4 +243,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0033,50:8B0000,100:050505&height=130&section=footer&animation=twinkling"/>
 
 </div>
-```
