@@ -164,15 +164,8 @@
 ## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2000&pause=600&color=FF0033&center=true&vCenter=true&width=600&lines=%5B+SCANNING+COMMITS...+%5D;%5B+ANALYZING+ACTIVITY...+%5D;%5B+KEEP+PUSHING...+%5D" alt="Contribution animation title"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/szenedinov/szenedinov/output/snake.svg" width="100%" alt="Contribution snake animation"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=szenedinov&bg_color=050505&color=FFFFFF&line=FF0033&point=FF0033&area=true&hide_border=true" alt="GitHub contribution activity" />
 </div>
-
 ---
 
 ## 🏆 ACHIEVEMENTS
