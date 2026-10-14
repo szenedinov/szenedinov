@@ -74,15 +74,8 @@
 ## 🛠️ TECH ARSENAL
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode&theme=dark" alt="Technology stack"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=500&color=FF0033&center=true&vCenter=true&width=650&lines=HTML+%2B+CSS+%2B+JAVASCRIPT;%3E+TYPESCRIPT+%2B+REACT;%3E+BUILD.+TEST.+DEBUG.;%3E+NEVER+STOP+LEARNING." alt="Tech stack animation"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode&theme=dark" alt="HTML CSS JavaScript TypeScript React Node Git GitHub VS Code" />
 </div>
-
 ---
 
 ## 🥊 FIGHT MODE
