@@ -155,7 +155,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=szenedinov&bg_color=050505&color=FFFFFF&line=FF0033&point=FF0033&area=true&hide_border=true&custom_title=SZENEDINOV%20CODING%20ACTIVITY" alt="GitHub coding activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=szenedinov&bg_color=050505&color=FFFFFF&line=FF0033&point=FF0033&area=true&hide_border=true" alt="Coding Activity Graph" width="100%"/>
 
 </div>
 
