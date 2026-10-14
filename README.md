@@ -178,9 +178,7 @@
 ## 🏆 ACHIEVEMENTS
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=szenedinov&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub achievements and trophies"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=szenedinov&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="GitHub trophies" />
 </div>
 
 ---
