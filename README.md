@@ -124,7 +124,7 @@ I build interfaces, explore new technologies, solve bugs and improve my developm
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=szenedinov&bg_color=050505&color=FFFFFF&line=FF0033&point=FF0033&area=true&hide_border=true" width="100%" alt="Coding activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=szenedinov&amp;bg_color=050505&amp;color=FFFFFF&amp;line=FF0033&amp;point=FF0033&amp;area=true&amp;hide_border=true" width="100%" alt="Coding Activity Graph"/>
 
 </div>
 
@@ -134,7 +134,7 @@ I build interfaces, explore new technologies, solve bugs and improve my developm
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/szenedinov/szenedinov/output/snake.svg" width="100%" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/szenedinov/szenedinov/output/snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -144,10 +144,9 @@ I build interfaces, explore new technologies, solve bugs and improve my developm
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=szenedinov&theme=darkhub&no-frame=true&no-bg=true&column=4" width="100%" alt="GitHub achievements"/>
+<img src="https://github-profile-trophy.vercel.app/?username=szenedinov&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=4" width="100%" alt="GitHub Achievements"/>
 
 </div>
-
 ---
 
 ## ⚡ TERMINAL
