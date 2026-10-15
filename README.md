@@ -143,10 +143,9 @@ I build interfaces, explore new technologies, solve bugs and improve my developm
 ## 🏆 ACHIEVEMENTS
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=szenedinov&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=4" width="100%" alt="GitHub Achievements"/>
-
+  <img src="https://raw.githubusercontent.com/szenedinov/szenedinov/main/assets/medals-row.svg" width="100%" alt="Coding Medals"/>
 </div>
+
 ---
 
 ## ⚡ TERMINAL
